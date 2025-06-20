@@ -12,7 +12,7 @@ export default {
   /** 箭头函数的参数无论有几个，都要括号包裹 */
   arrowParens: 'always',
   /** 换行符的使用 */
-  endOfLine: 'auto',
+  endOfLine: 'lf',
   /** 是否采用单引号 */
   singleQuote: true,
   /** 对象或者数组的最后一个元素后面不要加逗号 */
